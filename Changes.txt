@@ -1,0 +1,5 @@
+- Turnaround times for ops
+- Double shifts
+- Outpatients bed availability
+- Male/female split
+- Better output for schedule
