@@ -1,5 +1,5 @@
-- Turnaround times for ops
+- Turnaround times for ops 		YUP
 - Double shifts
 - Outpatients bed availability
 - Male/female split
-- Better output for schedule
+- Better output for schedule		YUP
